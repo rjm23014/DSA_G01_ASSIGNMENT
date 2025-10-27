@@ -26,7 +26,7 @@ A personal digital (or hardcopy) notebook is maintained containing:
 - Final code summary and learnings
 
 ## 🚀 Usage
-1. Clone this repository: https://github.com/rjm23014/G1_Assignment_rjm
+1. Clone this repository: https://github.com/rjm23014/DSA_G01_ASSIGNMENT
 
 2. Navigate to topic folder (e.g., `Array/`), pick a problem, and review solutions.
 3. Refer to LeetCode links for additional practice and discussion.
