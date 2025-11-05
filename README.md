@@ -1,6 +1,6 @@
 # DSA Practice: Array to Linked List
 
-This repository contains my solutions for DSA problems covering **Array, String, and Linked List** topics. Each problem includes:
+This repository contains my solutions for DSA problems covering **Array, String, Linked List, Tree, Graph, Tries, Recursion and Dynamic Programming** topics. Each problem includes:
 - Brute-force and optimized solutions (whenever possible)
 - Well-documented code with clear comments
 - Time and space complexity analysis
