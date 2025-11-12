@@ -1,4 +1,4 @@
-// Problem: Check Whether K Th Bit Is Set Or Not 1587115620
+// Problem: Check Whether K Th Bit Is Set Or Not
 // Link: https://www.geeksforgeeks.org/problems/check-whether-k-th-bit-is-set-or-not-1587115620/1
 
 #include <iostream>
